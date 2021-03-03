@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run a one-line script
-        run: echo "`curl -d'email=21@163.com' https://v2.freeok.xyz/reactive`"
+        run: echo "`curl -d'email=tamiwa2421@bulkbye.com' https://v2.freeok.xyz/reactive`"
